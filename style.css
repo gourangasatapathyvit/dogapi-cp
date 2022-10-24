@@ -1,0 +1,14 @@
+#dogImageId{
+    width: auto; 
+    height: 95vh;
+    border: 1px solid yellow;
+}
+
+#doggy{
+    height: 100%;
+    width: 100%;
+    border: 1px solid red;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
